@@ -14,10 +14,10 @@ Bidirectional Encoder Representations from Transformers is a transformer-based m
 
 * SpanBERT - SpanBERT is an improvement on the BERT model providing improved prediction of spans of text.
 
-* DistilBERT -
 
 DistilBERT
 --
+DistilBERT is a transformers model, smaller and faster than BERT, which was pretrained on the same corpus in a self-supervised fashion, using the BERT base model as a teacher. This means it was pretrained on the raw texts only, with no humans labelling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts using the BERT base model. 
 
 
 
