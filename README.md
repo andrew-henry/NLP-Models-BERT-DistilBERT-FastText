@@ -23,4 +23,4 @@ DistilBERT is a transformers model, smaller and faster than BERT, which was pret
 
 FastText
 --
-
+fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. 
