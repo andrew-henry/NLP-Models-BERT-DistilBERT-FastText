@@ -14,6 +14,8 @@ Bidirectional Encoder Representations from Transformers is a transformer-based m
 
 * SpanBERT - SpanBERT is an improvement on the BERT model providing improved prediction of spans of text.
 
+* TinyBERT
+
 
 DistilBERT
 --
