@@ -1,10 +1,11 @@
 # NLP-Models-BERT-DistilBERT-FastText
 
+
 BERT
 --
 Bidirectional Encoder Representations from Transformers is a transformer-based machine learning technique for natural language processing pre-training developed by Google. BERT was created and published in 2018 by Jacob Devlin and his colleagues from Google
 
-#### BERT Variations 
+### BERT Variations 
 
 * ALBERT - ALBERT stands for A Lite BERT and is a modified version of BERT NLP model. It builds on three key points such as Parameter Sharing, Embedding Factorization and Sentence Order Prediction (SOP).
 
