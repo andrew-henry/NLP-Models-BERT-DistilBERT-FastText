@@ -14,7 +14,7 @@ Bidirectional Encoder Representations from Transformers is a transformer-based m
 
 * SpanBERT - SpanBERT is an improvement on the BERT model providing improved prediction of spans of text.
 
-* TinyBERT
+* TinyBERT - TinyBERT is 7.5x smaller and 9.4x faster on inference than BERT-base and achieves competitive performances in the tasks of natural language understanding. It performs a novel transformer distillation at both the pre-training and task-specific learning stages. 
 
 
 DistilBERT
